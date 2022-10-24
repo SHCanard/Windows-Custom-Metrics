@@ -1,2 +1,4 @@
-# Latest-installed-Windows-KB
-List latest installed Windows KB hotfixes
+# Windows-Custom-Metrics
+Contains scripts to get some info :
+- List latest installed Windows KB hotfixes.
+- Get MSSQL Major version and CU version.
